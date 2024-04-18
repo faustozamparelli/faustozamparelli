@@ -1,3 +1,3 @@
 # Fausto Zamparelli
 
-![My profile picture](/Volumes/SD/Wallpapers/Logo/Grande_Nero.jpeg)
+![My profile picture](/Users/faustozamparelli/faustozamparelli/imgs/Grande_Nero.jpeg)
