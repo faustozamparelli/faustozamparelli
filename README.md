@@ -4,7 +4,7 @@
     <td><h1 style="font-size 2em">Fausto Zamparelli</h1></td>
   </tr>
 </table>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Platypi&weight=900&size=24&pause=1000&color=D2691E&background=2FB94200&center=true&vCenter=true&random=false&width=838&height=80&lines=Hey%2C++Welcome+to+My+GitHub!+%E2%9C%85%F0%9F%91%8B)]
 ## About me:
 I am a full-stack developer located in Rome, Italy. I have been passionate about technology my hole life. My life motto is: "Love what you do, Do what you love".
 I aspire to leave this word a better place than I was born in, to experiences as much as possible, live in the present, be energetic and 
