@@ -1,11 +1,11 @@
-<table>
+<table style="border: none; margin-left: auto; margin-right: auto;">
   <tr>
-    <td><img src="https://github.com/faustozamparelli/faustozamparelli/assets/105665123/06f288bd-e1cc-4fcc-a0d4-1e56348e6690" alt="Logo" width="100" height="100"></td>
-    <td><h1 style="font-size 2em">Fausto Zamparelli</h1></td>
+    <td style="border: none; vertical-align: middle;"><img src="https://github.com/faustozamparelli/faustozamparelli/assets/105665123/a36a4ecf-7d5e-41d1-bb55-a0b7c7f416de" alt="Logo" width="150" height="150"></td>
+    <td style="border: none; vertical-align: middle;"><div style="padding-top: 20px;"><img src="https://readme-typing-svg.herokuapp.com?font=&size=40&duration=3000&pause=1000&color=F7F7F7&vCenter=true&random=false&width=692&height=59&lines=Welcome+to+my+Github+profile!;I%60m+Fausto+Zamparelli" alt="Typing SVG"></div></td>
   </tr>
 </table>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Platypi&weight=900&size=24&pause=1000&color=D2691E&background=2FB94200&center=true&vCenter=true&random=false&width=838&height=80&lines=Hey%2C++Welcome+to+My+GitHub!+%E2%9C%85%F0%9F%91%8B)]
-## About me:
+
+## About me:  
 I am a full-stack developer located in Rome, Italy. I have been passionate about technology my hole life. My life motto is: "Love what you do, Do what you love".
 I aspire to leave this word a better place than I was born in, to experiences as much as possible, live in the present, be energetic and 
 positively affect as many people as I can while I am here.
