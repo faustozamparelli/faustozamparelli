@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center; justify-content: center;">
   <img src="https://github.com/faustozamparelli/faustozamparelli/assets/105665123/a36a4ecf-7d5e-41d1-bb55-a0b7c7f416de" alt="Logo" width="150" height="150">
-  <h1 style="margin-left: 20px;">Welcome to my github profile!<br />I'm Fausto Zamparelli 👋</h1>
+  <h1>Welcome to my github profile!<br />I'm Fausto Zamparelli 👋</h1>
 </div>
 
 ## About me:  
