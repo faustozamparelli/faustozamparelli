@@ -24,3 +24,7 @@ positively affect as many people as I can while I am here.
 <img align="left" alt="Github" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <img align="left" alt="Nvim" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />
 <br />
+
+## My socials:
+[![Linkedin](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=linkedin&logocolor=white)](https://www.linkedin.com/in/fausto-zamparelli-183387245/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/faustozamparelli/)
