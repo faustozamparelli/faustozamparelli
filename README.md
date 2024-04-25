@@ -26,5 +26,5 @@ positively affect as many people as I can while I am here.
 <br />
 
 ## My socials:
-[![Linkedin](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=linkedin&logocolor=white)](https://www.linkedin.com/in/fausto-zamparelli-183387245/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/faustozamparelli/)
+<a href="https://www.linkedin.com/in/fausto-zamparelli-183387245/" target="_blank"><img src="https://raw.githubusercontent.com/johan/svg-cleanups/74e3e4eb584fd9ca7b0951db7f401219e5e6e269/logos/linkedin.svg" width="50" height="50"></a>
+<a href="https://www.instagram.com/faustozamparelli/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="50" height="50"></a>
