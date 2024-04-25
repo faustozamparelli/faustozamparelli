@@ -1,8 +1,7 @@
-<table style="border: none; margin-left: auto; margin-right: auto;">
+<table sytle="border: none"> 
   <tr>
-    <td style="border: none; vertical-align: middle;"><img src="https://github.com/faustozamparelli/faustozamparelli/assets/105665123/a36a4ecf-7d5e-41d1-bb55-a0b7c7f416de" alt="Logo" width="150" height="150"></td>
-    <td><h1 style="font-size 2em">Welcome to my github profile!</h1></td>
-    <td><h1 style="font-size 2em">Fausto Zamparelli</h1></td>
+    <td><img src="https://github.com/faustozamparelli/faustozamparelli/assets/105665123/a36a4ecf-7d5e-41d1-bb55-a0b7c7f416de" alt="Logo" width="150" height="150"></td>
+    <td><h1>Welcome to my github profile!<br />I'm Fausto Zamparelli</h1></td>
   </tr>
 </table>
 
