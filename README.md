@@ -1,9 +1,7 @@
-<table style="border: none; margin-left: auto; margin-right: auto;">
-  <tr>
-    <td style="border: none; vertical-align: middle;"><img src="https://github.com/faustozamparelli/faustozamparelli/assets/105665123/a36a4ecf-7d5e-41d1-bb55-a0b7c7f416de" alt="Logo" width="150" height="150"></td>
-    <td style="border: none; vertical-align: middle;"><div style="padding-top: 20px;"><img src="https://readme-typing-svg.herokuapp.com?font=&size=40&duration=3000&pause=1000&color=F7F7F7&vCenter=true&random=false&width=692&height=59&lines=Welcome+to+my+Github+profile!;I%60m+Fausto+Zamparelli" alt="Typing SVG"></div></td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github.com/faustozamparelli/faustozamparelli/assets/105665123/a36a4ecf-7d5e-41d1-bb55-a0b7c7f416de" alt="Logo" width="150" height="150">
+  <img src="https://readme-typing-svg.herokuapp.com?font=&size=40&duration=3000&pause=1000&color=F7F7F7&vCenter=true&random=false&width=692&height=59&lines=Welcome+to+my+Github+profile!;I%60m+Fausto+Zamparelli" alt="Typing SVG">
+</div>
 
 ## About me:  
 I am a full-stack developer located in Rome, Italy. I have been passionate about technology my hole life. My life motto is: "Love what you do, Do what you love".
