@@ -1,9 +1,10 @@
-<table sytle="border: none"> 
-  <tr>
-    <td><img src="https://github.com/faustozamparelli/faustozamparelli/assets/105665123/a36a4ecf-7d5e-41d1-bb55-a0b7c7f416de" alt="Logo" width="150" height="150"></td>
-    <td><h1>Welcome to my github profile!<br />I'm Fausto Zamparelli</h1></td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center; justify-content: center; flex-direction: row;">
+  <img src="https://github.com/faustozamparelli/faustozamparelli/assets/105665123/a36a4ecf-7d5e-41d1-bb55-a0b7c7f416de" alt="Logo" width="150" height="150">
+  <div>
+    <h1>Welcome to my github profile!</h1>
+    <h1>I'm Fausto Zamparelli</h1>
+  </div>
+</div>
 
 ## About me:  
 I am a full-stack developer located in Rome, Italy. I have been passionate about technology my hole life. My life motto is: "Love what you do, Do what you love".
