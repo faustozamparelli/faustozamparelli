@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://github.com/faustozamparelli/faustozamparelli/assets/105665123/a36a4ecf-7d5e-41d1-bb55-a0b7c7f416de" alt="Logo" width="150" height="150">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&multiline=true&random=false&width=350&height=62&lines=Welcome+to+my+Github+profile!;I'm+Fausto+Zamparelli" alt="Typing SVG">
+  <img src="https://github.com/faustozamparelli/faustozamparelli/assets/105665123/a36a4ecf-7d5e-41d1-bb55-a0b7c7f416de" alt="Logo" width="70" height="70">
+  <img src="https://readme-typing-svg.herokuapp.com?font=&size=40&duration=3000&pause=1000&color=F7F7F7&vCenter=true&random=false&width=702&height=60&lines=Welcome+to+my+Github+profile!;I%60m+Fausto+Zamparelli" alt="Typing SVG">
 </div>
 
 ## About me:  
