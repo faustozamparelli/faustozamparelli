@@ -30,5 +30,5 @@ positively affect as many people as I can while I am here.
 <a href="https://www.instagram.com/faustozamparelli/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="50" height="50"></a>
 
 ## GH Stats:
-[![faustozamparelli's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=faustozamparelli&show_icons=true&theme=midnight_purple#gh-dark-mode-only)]
-[![faustozamparelli's GitHub Streak](https://streak-stats.demolab.com?user=faustozamparelli&theme=midnight-purple)]
+![faustozamparelli's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=faustozamparelli&show_icons=true&theme=midnight_purple)]  
+![faustozamparelli's GitHub Streak](https://streak-stats.demolab.com?user=faustozamparelli&theme=midnight-purple)]
