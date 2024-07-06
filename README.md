@@ -31,7 +31,7 @@ positively affect as many people as I can while I am here.
 
 ## My socials:
 <a href="https://www.linkedin.com/in/fausto-zamparelli-183387245/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="50" height="50"></a>
-<a href="https://x.com/faustozampa" target="_blank"><img src="[https://www.pinterest.com/pin/twitter-x-icon-png-in-2023--1006413847961692113/](https://freebiehive.com/wp-content/uploads/2023/07/Twitter-X-Icon-PNG.jpg)" width="50" height="50"></a>
+<a href="https://x.com/faustozampa" target="_blank"><img src="![X](https://github.com/faustozamparelli/faustozamparelli/assets/105665123/7c4d3e72-7d9b-4e03-83d9-6cbfcc2d17ba)" width="50" height="50"></a>
 <a href="https://www.instagram.com/faustozamparelli/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="50" height="50"></a>
 
 ## GH Stats:
