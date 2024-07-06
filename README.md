@@ -24,6 +24,7 @@ positively affect as many people as I can while I am here.
 <img align="left" alt="Github" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <img align="left" alt="Nvim" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />  
 
+  
 ## Tools up my sleeve:
 
 ## Occasional:
