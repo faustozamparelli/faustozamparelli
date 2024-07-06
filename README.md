@@ -33,7 +33,7 @@ positively affect as many people as I can while I am here.
 <img align="left" alt="VsCode" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <br><br>
 
-## My socials (click on me...):
+## My socials (click on me):
 <a href="https://www.linkedin.com/in/fausto-zamparelli-183387245/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="50" height="50"></a>
 <a href="https://x.com/faustozampa" target="_blank"><img src="https://github.com/faustozamparelli/faustozamparelli/assets/105665123/aa4401a5-f3cd-4b9b-9acd-36f53d669cc4" width="50" height="50"></a>
 <a href="https://www.instagram.com/faustozamparelli/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="50" height="50"></a>
