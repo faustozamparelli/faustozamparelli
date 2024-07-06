@@ -9,10 +9,16 @@
 - I am a full-stack developer located in Rome Italy, my main focus is web-developement and AI.
 - I am studing Applied Computer Science and Artificial Intelligence at Sapienza University but I have been passionate about technology my hole life.  
 - My life motto is: "Love what you do, Do what you love". I aspire to leave this word a better place than I was born in, to experiences as much as possible, live in the present, be energetic and 
-positively affect as many people as I can while I am here.  
+positively affect as many people as I can while I am here. 
+ 
+<style>
+.no-click {
+    pointer-events: none;
+}
+</style>
 
 ## Daily:
-<img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img class="no-click" align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 <img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" alt="CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
