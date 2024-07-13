@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td><img src="https://github.com/faustozamparelli/faustozamparelli/assets/105665123/a36a4ecf-7d5e-41d1-bb55-a0b7c7f416de" alt="Logo" width="150" height="150"></td>
+    <td><img src="https://github.com/user-attachments/assets/c617b0ed-634a-4aa9-90fd-2a8d29ac5080" alt="Me" width="150" height="150"></td>
     <td><h1 style="padding-left: 20px;">Welcome to my github profile!<br />I'm Fausto Zamparelli 👋</h1></td>
   </tr>
 </table>
