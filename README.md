@@ -6,7 +6,7 @@
 </table>
 
 ## About me:  
-- I am a full-stack developer located in Rome Italy, my main focus is web-developement and AI.
+- I am a full-stack developer located in Rome Italy, my main focus is web-developement and AI (even though I have touched on IOS development and Game development in the past).
 - I am studing Applied Computer Science and Artificial Intelligence at Sapienza University but I have been passionate about technology my hole life.  
 - My life motto is: "Love what you do, Do what you love". I aspire to leave this word a better place than I was born in, to experiences as much as possible, live in the present, be energetic and 
 positively affect as many people as I can while I am here. 
