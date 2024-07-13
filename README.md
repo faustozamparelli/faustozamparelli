@@ -43,3 +43,4 @@ positively affect as many people as I can while I am here.
 ## GH Stats:
 ![faustozamparelli's GitHub Streak](https://streak-stats.demolab.com?user=faustozamparelli&theme=midnight-purple)
 ![faustozamparelli's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=faustozamparelli&show_icons=true&theme=midnight-purple)  
+![faustozamparelli's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faustozamparelli&theme=midnight-purple)
