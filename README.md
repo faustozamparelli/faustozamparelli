@@ -1,4 +1,4 @@
-<table align="center" style="border:0px solid white; width:100%;">
+<table align="center">
   <tr>
     <td><img src="https://github.com/user-attachments/assets/62740fe2-e96f-449b-ba79-b832320411f7" alt="Me" width="150" height="150"></td>
     <td><h1 style="padding-left: 20px;">Welcome to my github profile!<br />I'm Fausto Zamparelli 👋</h1></td>
@@ -41,9 +41,7 @@ positively affect as many people as I can while I am here.
 <br><br>
 
 ## GH Stats:  
-<table align="center" style="border:0px solid white; width:100%;">
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=faustozamparelli&rank_icon=github&theme=midnight-purple" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faustozamparelli&layout=donut-vertical&theme=midnight-purple" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=faustozamparelli&rank_icon=github&theme=midnight-purple" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faustozamparelli&layout=donut-vertical&theme=midnight-purple" />
+</p>
