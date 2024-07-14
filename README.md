@@ -6,9 +6,9 @@
 </table>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/62740fe2-e96f-449b-ba79-b832320411f7" alt="Me" width="150" height="150" style="display: inline-block; vertical-align: middle; margin-right: 20px;">
+  <img src="https://github.com/user-attachments/assets/62740fe2-e96f-449b-ba79-b832320411f7" alt="Me" width="150" height="150" style="display: inline-block; vertical-align: middle;">
   <span style="display: inline-block; vertical-align: middle; text-align: left;">
-    <strong>Welcome to my GitHub profile!<br>I'm Fausto Zamparelli 👋</strong>
+    <h1>Welcome to my GitHub profile!<br>I'm Fausto Zamparelli 👋</h1>
   </span>
 </p>
 
