@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/62740fe2-e96f-449b-ba79-b832320411f7" alt="Me" width="150" height="150" style="display: inline-block; vertical-align: middle; margin-right: 20px;">
   <span style="display: inline-block; vertical-align: middle;">
-    <strong>Welcome to my GitHub profile!<br>I'm Fausto Zamparelli 👋</strong>
+    <strong size=5>Welcome to my GitHub profile!<br>I'm Fausto Zamparelli 👋</strong>
   </span>
 </p>
  
