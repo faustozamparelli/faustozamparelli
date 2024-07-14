@@ -41,10 +41,7 @@ positively affect as many people as I can while I am here.
 <br><br>
 
 <a href="https://faustozamparelli.com/blog/">
-    <img src="https://tenor.com/en-GB/view/the-matrix-has-you-gif-9223042" alt="The matrix has you" />
-</a>
-<a href="https://faustozamparelli.com/blog/">
-<div class="tenor-gif-embed" data-postid="9223042" data-share-method="host" data-aspect-ratio="1.77451" data-width="100%"><a href="https://tenor.com/view/the-matrix-has-you-gif-9223042">The Matrix Has You GIF</a>from <a href="https://tenor.com/search/the+matrix+has+you-gifs">The Matrix Has You GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+    <img src="https://tenor.com/en-GB/view/the-matrix-has-you-gif-9223042" />
 </a>
 
 ## GH Stats:
