@@ -30,7 +30,7 @@ positively affect as many people as I can while I am here.
 <img align="left" alt="Nvim" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />
 <img align="left" alt="VsCode" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="Github" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/eeb43810-7c5c-487a-bcac-99f9f3e4c85" />
+<img align="left" alt="Github" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/c764da3e-4882-496b-956d-916913674828" />
 <br><br>
 
 ## My socials (click on me):
