@@ -47,7 +47,7 @@ positively affect as many people as I can while I am here.
 </p>
 
 <div align="center">
-    <p>Please click play AND THE BUTTON NEXT TO IT</p>
+    <h2>Please click play AND THE BUTTON NEXT TO IT</h2>
     <a href="https://faustozamparelli.com/blog/">    
         <img src="https://media1.tenor.com/m/Nhuni4Kqc3QAAAAC/the-matrix-has-you.gif" width="600" alt="The Matrix has you" />
     </a>
