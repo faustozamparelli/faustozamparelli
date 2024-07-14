@@ -1,8 +1,11 @@
-<img src="https://github.com/user-attachments/assets/62740fe2-e96f-449b-ba79-b832320411f7" alt="Me" width="150" height="150">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/62740fe2-e96f-449b-ba79-b832320411f7" alt="Me" width="150" height="150">
+</p>
 
-# Welcome to my GitHub profile!
-## I'm Fausto Zamparelli 👋
-
+<p align="center" style="font-size: 2em;">
+  Welcome to my GitHub profile!<br>
+  I'm Fausto Zamparelli 👋
+</p>
 
 ## About me:  
 - I am a full-stack developer located in Rome Italy, my main focus is web-developement and AI (with some background on IOS development).
