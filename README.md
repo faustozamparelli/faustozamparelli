@@ -40,10 +40,6 @@ positively affect as many people as I can while I am here.
 <a href="https://open.spotify.com/user/fausto.zamparelli-it?si=de62022e8a874874" target="_blank"><img src="https://github.com/faustozamparelli/faustozamparelli/assets/105665123/38f8d145-eb19-4da1-bd50-8dde119bb1f1" width="50" height="50"></a>
 <br><br>
 
-<a href="https://faustozamparelli.com/blog/">
-    <img src="https://media1.tenor.com/m/Nhuni4Kqc3QAAAAC/the-matrix-has-you.gif" />
-</a>
-
 ## GH Stats:
 <p align="center">
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=faustozamparelli&rank_icon=github&theme=midnight-purple" />
@@ -52,6 +48,7 @@ positively affect as many people as I can while I am here.
 
 <div align="center">
     <a href="https://faustozamparelli.com/blog/">
-        <img src="https://media1.tenor.com/m/Nhuni4Kqc3QAAAAC/the-matrix-has-you.gif" width="800" alt="The Matrix has you" />
+        <p>Please click play AND THE BUTTON NEXT TO IT</p>
+        <img src="https://media1.tenor.com/m/Nhuni4Kqc3QAAAAC/the-matrix-has-you.gif" width="600" alt="The Matrix has you" />
     </a>
 </div>
