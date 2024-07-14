@@ -5,6 +5,12 @@
   </tr>
 </table>
 
+<p align="center" style="display: flex; align-items: center; justify-content: center;">
+  <img src="https://github.com/user-attachments/assets/62740fe2-e96f-449b-ba79-b832320411f7" alt="Me" width="150" height="150" style="margin-right: 20px;">
+  <h1>Welcome to my GitHub profile!<br />I'm Fausto Zamparelli 👋</h1>
+</p>
+ 
+
 ## About me:  
 - I am a full-stack developer located in Rome Italy, my main focus is web-developement and AI (with some background on IOS development).
 - I am studing Applied Computer Science and Artificial Intelligence at Sapienza University but I have been passionate about technology my hole life.  
