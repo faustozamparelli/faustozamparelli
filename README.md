@@ -4,15 +4,10 @@
     <td><h1 style="padding-left: 20px;">Welcome to my github profile!<br />I'm Fausto Zamparelli 👋</h1></td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/62740fe2-e96f-449b-ba79-b832320411f7" alt="Me" width="150" height="150" style="display: inline-block; vertical-align: middle;">
-  <span style="display: inline-block; vertical-align: middle; text-align: left;">
-    <h1>Welcome to my GitHub profile!<br>I'm Fausto Zamparelli 👋</h1>
-  </span>
-</p>
-
-
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/62740fe2-e96f-449b-ba79-b832320411f7" alt="Me" width="150" height="150">
+  <h1 style="padding-left: 20px;">Welcome to my GitHub profile!<br />I'm Fausto Zamparelli 👋</h1>
+</div>
 
 ## About me:  
 - I am a full-stack developer located in Rome Italy, my main focus is web-developement and AI (with some background on IOS development).
