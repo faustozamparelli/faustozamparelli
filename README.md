@@ -41,9 +41,6 @@ positively affect as many people as I can while I am here.
 <br><br>
 
 ## GH Stats:  
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=faustozamparelli&rank_icon=github&theme=midnight-purple" />  
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faustozamparelli&layout=donut-vertical&theme=midnight-purple" />
-
 <table align="center">
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=faustozamparelli&rank_icon=github&theme=midnight-purple" /></td>
