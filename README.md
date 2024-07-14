@@ -45,3 +45,5 @@ positively affect as many people as I can while I am here.
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=faustozamparelli&rank_icon=github&theme=midnight-purple" />
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=faustozamparelli&layout=compact&langs_count=8&card_width=320&theme=midnight-purple" />
 </p>
+
+![Linda...](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGg5NXQxOWhrcWFyeGNreGQ3dGFrdWZvdzVmdmZyODFmdWl3eTN4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G6cPnolUPnq5JFrFz8/giphy.gif)
