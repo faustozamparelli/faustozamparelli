@@ -40,8 +40,8 @@ positively affect as many people as I can while I am here.
 <a href="https://open.spotify.com/user/fausto.zamparelli-it?si=de62022e8a874874" target="_blank"><img src="https://github.com/faustozamparelli/faustozamparelli/assets/105665123/38f8d145-eb19-4da1-bd50-8dde119bb1f1" width="50" height="50"></a>
 <br><br>
 
-<a href="https://www.whatisthematrix.com" align="center">
-    <img src="https://github.com/user-attachments/assets/db35d6cf-e9e5-4df1-8d46-054bbea0023c" alt="The matrix has you" width="500" height="300">
+<a href="https://faustozamparelli.com/blog/" align="center">
+    <img src="https://tenor.com/en-GB/view/the-matrix-has-you-gif-9223042" alt="The matrix has you" />
 </a>
 
 ## GH Stats:
