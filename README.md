@@ -45,3 +45,13 @@ positively affect as many people as I can while I am here.
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faustozamparelli&layout=donut-vertical&theme=midnight-purple" />
 
 [//]: # (![faustozamparelli's GitHub Streak](https://streak-stats.demolab.com?user=faustozamparelli&theme=midnight-purple))
+
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=faustozamparelli&rank_icon=github&theme=midnight-purple" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faustozamparelli&layout=donut-vertical&theme=midnight-purple" /></td>
+  </tr>
+</table>
+
+[//]: # (![faustozamparelli's GitHub Streak](https://streak-stats.demolab.com?user=faustozamparelli&theme=midnight-purple))
