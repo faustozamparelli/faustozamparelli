@@ -40,6 +40,8 @@ positively affect as many people as I can while I am here.
 <a href="https://open.spotify.com/user/fausto.zamparelli-it?si=de62022e8a874874" target="_blank"><img src="https://github.com/faustozamparelli/faustozamparelli/assets/105665123/38f8d145-eb19-4da1-bd50-8dde119bb1f1" width="50" height="50"></a>
 <br><br>
 
+[![Click Me...](https://img.shields.io/badge/Click%20to%20Enter-The%20Matrix-success)](https://faustozamparelli.com)
+
 ## GH Stats:
 <p align="center">
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=faustozamparelli&rank_icon=github&theme=midnight-purple" />
