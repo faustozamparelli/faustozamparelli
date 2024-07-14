@@ -41,7 +41,7 @@ positively affect as many people as I can while I am here.
 <br><br>
 
 <a href="https://faustozamparelli.com/blog/">
-    <img src="https://tenor.com/en-GB/view/the-matrix-has-you-gif-9223042" />
+    <img src="https://media1.tenor.com/m/Nhuni4Kqc3QAAAAC/the-matrix-has-you.gif" />
 </a>
 
 ## GH Stats:
