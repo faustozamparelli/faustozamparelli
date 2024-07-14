@@ -41,7 +41,7 @@ positively affect as many people as I can while I am here.
 <br><br>
 
 ## GH Stats:  
-<p align="center">
+<div style="display: flex; justify-content: center; align-items: center; height: 200px;">
   <img src="https://github-readme-stats.vercel.app/api?username=faustozamparelli&rank_icon=github&theme=midnight-purple" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faustozamparelli&layout=donut-vertical&theme=midnight-purple" />
-</p>
+</div>
