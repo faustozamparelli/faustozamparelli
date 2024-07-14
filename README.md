@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/62740fe2-e96f-449b-ba79-b832320411f7" alt="Me" width="150" height="150">
-  <h1">Welcome to my GitHub profile!<br />I'm Fausto Zamparelli 👋</h1>
+  <h1 style="padding-left: 20px;"">Welcome to my GitHub profile!<br />I'm Fausto Zamparelli 👋</h1>
 </div>
 
 ## About me:  
