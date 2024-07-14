@@ -40,14 +40,8 @@ positively affect as many people as I can while I am here.
 <a href="https://open.spotify.com/user/fausto.zamparelli-it?si=de62022e8a874874" target="_blank"><img src="https://github.com/faustozamparelli/faustozamparelli/assets/105665123/38f8d145-eb19-4da1-bd50-8dde119bb1f1" width="50" height="50"></a>
 <br><br>
 
-<a href="your-link-here" target="_blank" style="text-decoration: none;">
-  <div style="background-color: black; font-family: 'Courier New', monospace; font-size: 14px; color: #00ff00; text-shadow: 0 0 5px #00ff00; overflow: hidden; white-space: nowrap; padding: 10px; display: inline-block;">
-    <pre><code>
-01010111 01100101 01101100 01100011 01101111 01101101 01100101
-01110100 01101111 00100000 01110100 01101000 01100101 00100000
-01001101 01100001 01110100 01110010 01101001 01111000 00100001
-    </code></pre>
-  </div>
+<a href="https://www.whatisthematrix.com" align="center">
+    <img src="https://github.com/user-attachments/assets/db35d6cf-e9e5-4df1-8d46-054bbea0023c" alt="The matrix has you" width="500" height="300">
 </a>
 
 ## GH Stats:
