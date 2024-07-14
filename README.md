@@ -40,7 +40,8 @@ positively affect as many people as I can while I am here.
 <a href="https://open.spotify.com/user/fausto.zamparelli-it?si=de62022e8a874874" target="_blank"><img src="https://github.com/faustozamparelli/faustozamparelli/assets/105665123/38f8d145-eb19-4da1-bd50-8dde119bb1f1" width="50" height="50"></a>
 <br><br>
 
-## GH Stats:
-[//]: #(![faustozamparelli's GitHub Streak](https://streak-stats.demolab.com?user=faustozamparelli&theme=midnight-purple))
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=faustozamparelli&rank_icon=github&theme=midnight-purple" />  
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faustozamparelli&layout=donut-vertical&theme=midnight-purple" />
+## GH Stats:  
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=faustozamparelli&rank_icon=github&theme=midnight-purple" />  
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faustozamparelli&layout=donut-vertical&theme=midnight-purple" />
+
+[//]: # (![faustozamparelli's GitHub Streak](https://streak-stats.demolab.com?user=faustozamparelli&theme=midnight-purple))
