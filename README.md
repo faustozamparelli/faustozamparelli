@@ -40,7 +40,15 @@ positively affect as many people as I can while I am here.
 <a href="https://open.spotify.com/user/fausto.zamparelli-it?si=de62022e8a874874" target="_blank"><img src="https://github.com/faustozamparelli/faustozamparelli/assets/105665123/38f8d145-eb19-4da1-bd50-8dde119bb1f1" width="50" height="50"></a>
 <br><br>
 
-[![Click Me...](https://img.shields.io/badge/Click%20to%20Enter-The%20Matrix-success)](https://faustozamparelli.com)
+<a href="your-link-here" target="_blank" style="text-decoration: none;">
+  <div style="background-color: black; font-family: 'Courier New', monospace; font-size: 14px; color: #00ff00; text-shadow: 0 0 5px #00ff00; overflow: hidden; white-space: nowrap; padding: 10px; display: inline-block;">
+    <pre><code>
+01010111 01100101 01101100 01100011 01101111 01101101 01100101
+01110100 01101111 00100000 01110100 01101000 01100101 00100000
+01001101 01100001 01110100 01110010 01101001 01111000 00100001
+    </code></pre>
+  </div>
+</a>
 
 ## GH Stats:
 <p align="center">
