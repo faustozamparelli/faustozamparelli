@@ -6,17 +6,17 @@
 </table>
 
 ## About me:  
-- I am a full-stack developer located in Rome Italy, my main focus is web-developement and AI (with some background on IOS development).
-- I am studing Applied Computer Science and Artificial Intelligence at Sapienza University but I have been passionate about technology my hole life.  
-- My life motto is: "Love what you do, Do what you love". I aspire to leave this word a better place than I was born in, to experiences as much as possible, live in the present, be energetic and 
-positively affect as many people as I can while I am here. 
+- I am a full-stack developer located in Rome Italy, my main focus is web development and AI (with some background on iOS development).
+- I am studying Applied Computer Science and Artificial Intelligence at Sapienza University but I have been passionate about technology my whole life.  
+- My life motto is: "Love what you do, Do what you love". I aspire to leave this world a better place than I was born in, to experience as much as possible, live in the present, be energetic and 
+positively affect as many people as I can while I'm here. 
 
 ## Daily:
 <img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 <img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" alt="CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="Html" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="Bash" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 <br><br>
 
@@ -28,9 +28,9 @@ positively affect as many people as I can while I am here.
 
 ## Tools up my sleeve:
 <img align="left" alt="Nvim" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />
-<img align="left" alt="VsCode" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<img align="left" alt="VSCode" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="Github" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/c764da3e-4882-496b-956d-916913674828" />
+<img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/c764da3e-4882-496b-956d-916913674828" />
 <br><br>
 
 ## My socials (click on me):
