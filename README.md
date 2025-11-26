@@ -13,7 +13,7 @@ positively affect as many people as I can while I'm here.
 
 ## Daily:
 <img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C" width="50px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" />
+<img align="left" alt="C" width="60px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" />
 <img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 <img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" alt="CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -37,7 +37,7 @@ positively affect as many people as I can while I'm here.
 <img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/c764da3e-4882-496b-956d-916913674828" />
 <br><br>
 
-## My socials (click on me):
+## My socials:
 <a href="https://www.linkedin.com/in/fausto-zamparelli-183387245/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="50" height="50"></a>
 <a href="https://x.com/faustozampa" target="_blank"><img src="https://github.com/faustozamparelli/faustozamparelli/assets/105665123/aa4401a5-f3cd-4b9b-9acd-36f53d669cc4" width="50" height="50"></a>
 <a href="https://www.instagram.com/faustozamparelli/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="50" height="50"></a>
